@@ -62,8 +62,8 @@ docker tag sis zhijunlin/examensis
 docker push zhijunlin/examensis
 ~~~
 ![](https://github.com/ZhijunLin7/ExamneSISTEMA/blob/main/Imatges/1.10.png)
-
-
+![](https://github.com/ZhijunLin7/ExamneSISTEMA/blob/main/Imatges/1.11.png)
+Link de docker hub: https://hub.docker.com/r/zhijunlin/examensis
 
 
 
