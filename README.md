@@ -66,9 +66,9 @@ docker push zhijunlin/examensis
 Link de docker hub: https://hub.docker.com/r/zhijunlin/examensis
 
 
+Me al salido un erro de java al intentar loguear y registrarme en el web
 
-
-
+jakarta.servlet.ServletException: java.lang.ClassNotFoundException: com.mysql.jdbc.Driver
 
 
 
